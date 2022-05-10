@@ -15,6 +15,7 @@
 		C6FB3967282A4950006D5340 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FB3966282A4950006D5340 /* Data.swift */; };
 		C6FB3969282A4A6A006D5340 /* StoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FB3968282A4A6A006D5340 /* StoryView.swift */; };
 		C6FB396B282A4B4C006D5340 /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FB396A282A4B4C006D5340 /* FavoritesView.swift */; };
+		C6FB396D282A4C7D006D5340 /* FunFactsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6FB396C282A4C7D006D5340 /* FunFactsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		C6FB3966282A4950006D5340 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		C6FB3968282A4A6A006D5340 /* StoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryView.swift; sourceTree = "<group>"; };
 		C6FB396A282A4B4C006D5340 /* FavoritesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
+		C6FB396C282A4C7D006D5340 /* FunFactsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FunFactsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				C6FB3963282A480B006D5340 /* HomeView.swift */,
 				C6FB3968282A4A6A006D5340 /* StoryView.swift */,
 				C6FB396A282A4B4C006D5340 /* FavoritesView.swift */,
+				C6FB396C282A4C7D006D5340 /* FunFactsView.swift */,
 			);
 			path = Tabs;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 				C6FB3969282A4A6A006D5340 /* StoryView.swift in Sources */,
 				C6FB3964282A480B006D5340 /* HomeView.swift in Sources */,
 				C6FB396B282A4B4C006D5340 /* FavoritesView.swift in Sources */,
+				C6FB396D282A4C7D006D5340 /* FunFactsView.swift in Sources */,
 				C6FB3958282A4381006D5340 /* ContentView.swift in Sources */,
 				C6FB3956282A4381006D5340 /* AboutMeApp.swift in Sources */,
 				C6FB3967282A4950006D5340 /* Data.swift in Sources */,
