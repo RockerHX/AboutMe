@@ -11,6 +11,6 @@ You can change all of the data, or content, in the app to be about any topic of 
 
 > Version: **Xcode 13.2 or later**
 
-link: (https://developer.apple.com/tutorials/sample-apps/aboutme#Home-Tab)[https://developer.apple.com/tutorials/sample-apps/aboutme#Home-Tab]
+link: [https://developer.apple.com/tutorials/sample-apps/aboutme#Home-Tab](https://developer.apple.com/tutorials/sample-apps/aboutme#Home-Tab)
 
-project: (https://docs-assets.developer.apple.com/published/8146a1197e762029e764c987507a6f02/13300/AboutMe.zip)[https://docs-assets.developer.apple.com/published/8146a1197e762029e764c987507a6f02/13300/AboutMe.zip]
+project: [https://docs-assets.developer.apple.com/published/8146a1197e762029e764c987507a6f02/13300/AboutMe.zip](https://docs-assets.developer.apple.com/published/8146a1197e762029e764c987507a6f02/13300/AboutMe.zip)
